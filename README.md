@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumyajit Bala</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">"💻 Passionate Software Developer | Crafting Code & Solutions from India 🚀"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kal-lab311&label=Profile%20views&color=0e75b6&style=flat" alt="kal-lab311" /> </p>
 
